@@ -1,0 +1,6 @@
+CORD-19 Data Cleaning Report
+========================================
+Final dataset size: 850,366 rows
+Columns: 25
+Average abstract length: 168.0 words
+Papers with abstracts: 673,485

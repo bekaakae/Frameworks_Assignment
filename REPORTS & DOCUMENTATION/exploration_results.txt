@@ -1,1 +1,26 @@
+CORD-19 Dataset Exploration Results
+========================================
+Dataset shape: (1056660, 19)
+Columns: ['cord_uid', 'sha', 'source_x', 'title', 'doi', 'pmcid', 'pubmed_id', 'license', 'abstract', 'publish_time', 'authors', 'journal', 'mag_id', 'who_covidence_id', 'arxiv_id', 'pdf_json_files', 'pmc_json_files', 'url', 's2_id']
 
+Missing values:
+cord_uid                  0
+sha                  682894
+source_x                  0
+title                   503
+doi                  399880
+pmcid                667089
+pubmed_id            557728
+license                   0
+abstract             235544
+publish_time           1814
+authors               23869
+journal               87322
+mag_id              1056660
+who_covidence_id     573725
+arxiv_id            1042411
+pdf_json_files       682894
+pmc_json_files       740918
+url                  369726
+s2_id                 80192
+dtype: int64

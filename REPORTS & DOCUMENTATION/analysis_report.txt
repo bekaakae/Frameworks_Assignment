@@ -1,0 +1,8 @@
+CORD-19 ANALYSIS REPORT
+========================================
+Total papers analyzed: 803918
+Publication range: 1878-2024
+Peak publication year: 2021.0 (158837 papers)
+Top journal: Unknown Journal (69800 papers)
+Most common word: 'covid' (347395 appearances)
+Average abstract length: 166.7 words
